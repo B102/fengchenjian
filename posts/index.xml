@@ -6,7 +6,19 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Aug 2023 00:31:36 -0500</lastBuildDate><atom:link href="https://B102.github.io/fengchenjian/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2023 00:44:40 -0500</lastBuildDate><atom:link href="https://B102.github.io/fengchenjian/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>413</title>
+      <link>https://B102.github.io/fengchenjian/posts/413/</link>
+      <pubDate>Mon, 28 Aug 2023 00:44:40 -0500</pubDate>
+      
+      <guid>https://B102.github.io/fengchenjian/posts/413/</guid>
+      <description>Sam&amp;rsquo;s first 413 lecture Gomor&amp;rsquo;s Theorem: If you move two cells of a $8 \times 8$ chessboard of opposite colors, the remaining cells can be fully domino tiled.
+Pf:
+Draw a closed path that passes through every square exactly once. (Draw a big C and then draw back and forth horizontally)
+Choose the two cells to be removed, and the closed path we have will be sperated into two paths.</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>https://B102.github.io/fengchenjian/posts/test/</link>
