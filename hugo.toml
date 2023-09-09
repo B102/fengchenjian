@@ -1,7 +1,5 @@
 baseURL = 'https://B102.github.io/fengchenjian/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Jian Blog'
 theme = 'PaperMod'
 
-[params]
-  katex = true
