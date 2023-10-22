@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Jian Blog</title>
+    <title>Posts on 簡</title>
     <link>https://B102.github.io/fengchenjian/posts/</link>
-    <description>Recent content in Posts on Jian Blog</description>
+    <description>Recent content in Posts on 簡</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh</language>
     <lastBuildDate>Fri, 20 Oct 2023 23:40:45 -0500</lastBuildDate><atom:link href="https://B102.github.io/fengchenjian/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>窗戶</title>
@@ -14,18 +14,6 @@
       
       <guid>https://B102.github.io/fengchenjian/posts/%E7%AA%97%E6%88%B6/</guid>
       <description>你可以從一個人的窗戶看到他的生活。我喜歡在回家的路上時不時地駐足觀察一些窗戶。有些窗戶拉上了窗簾但是能隱約聽到一些聲音，不管怎樣你可以或多或少瞥到他們生活的一角。走過寬敞的廚房，走過暖黃色燈光的臥室，走過擺滿草稿紙的書桌，走過迷幻的彩燈，走過音樂聲，走過陣陣歡呼聲，終於坐在了一扇凌亂的窗戶裡。窗前的桌子上鋪滿了各種各樣的紙，高矮不同的藥瓶和散落的零錢。坐在窗前，我看到了遠處院子裡的篝火，迷幻的彩燈，聽到了音樂聲和陣陣歡呼聲。灰色的天空，雲朵像戰艦一樣在空中碰撞，破碎成雨滴降落在窗前。這世界上的每個人都在過著自己的生活，但都與我無關。</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>https://B102.github.io/fengchenjian/posts/hello/</link>
-      <pubDate>Mon, 28 Aug 2023 10:11:25 -0500</pubDate>
-      
-      <guid>https://B102.github.io/fengchenjian/posts/hello/</guid>
-      <description>How to create a new post So, on your computer, cd to the folder in terminal.
-Then type hugo new posts/&amp;lt;name&amp;gt;.md to create a new post.
-Edit it as you wish.
-Finally, in your terminal, git add . , git commit -m &amp;quot;&amp;lt;text&amp;gt;&amp;quot;, and git push.</description>
     </item>
     
     <item>
