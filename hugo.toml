@@ -1,5 +1,17 @@
 baseURL = 'https://B102.github.io/fengchenjian/'
-languageCode = 'en-us'
-title = 'Jian Blog'
+languageCode = 'zh'
+title = '簡'
 theme = 'PaperMod'
 
+[params.homeInfoParams]
+Title = "安っぽい香水の匂いより 人間臭い匂いがする人達が好き。"
+Content = "比起廉價的香水味，我還是更喜歡有生活氣息的人。"
+
+
+[params]
+DateFormat = "2003年9月02日"
+
+[[menu.main]]
+name = "歸檔"
+url = "archives"
+weight = 10
