@@ -5,8 +5,8 @@ title = '簡'
 theme = 'PaperMod'
 
 [params.homeInfoParams]
-Title = "安っぽい香水の匂いより 人間臭い匂いがする人達が好き。"
-Content = "比起廉價的香水味，我還是更喜歡有生活氣息的人。"
+Title = "夢も希望もねぇ話やめべ。"
+Content = "沒有夢想和希望的話就別說了。"
 
 [[menu.main]]
 name = "歸檔"
