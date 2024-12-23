@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://B102.github.io/fengchenjian/about/</loc>
-    <lastmod>2024-12-01T00:00:52-05:00</lastmod>
-  </url><url>
     <loc>https://B102.github.io/fengchenjian/posts/</loc>
-    <lastmod>2023-10-23T23:27:34-05:00</lastmod>
+    <lastmod>2024-12-23T17:47:34-05:00</lastmod>
   </url><url>
     <loc>https://B102.github.io/fengchenjian/</loc>
-    <lastmod>2023-10-23T23:27:34-05:00</lastmod>
+    <lastmod>2024-12-23T17:47:34-05:00</lastmod>
+  </url><url>
+    <loc>https://B102.github.io/fengchenjian/posts/%E8%B2%93%E7%9A%84%E6%88%BF%E9%96%93/</loc>
+    <lastmod>2024-12-23T17:47:34-05:00</lastmod>
+  </url><url>
+    <loc>https://B102.github.io/fengchenjian/about/</loc>
+    <lastmod>2024-12-01T00:00:52-05:00</lastmod>
   </url><url>
     <loc>https://B102.github.io/fengchenjian/posts/%E4%B8%8A%E5%8D%87/</loc>
     <lastmod>2023-10-23T23:27:34-05:00</lastmod>
