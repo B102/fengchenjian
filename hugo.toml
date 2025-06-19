@@ -5,8 +5,8 @@ title = '簡'
 theme = 'PaperMod'
 
 [params.homeInfoParams]
-Title = "夢も希望もねぇ話やめべ。"
-Content = "沒有夢想和希望的話就別說了。"
+Title = "杏紅月光下，凜耀碧藍間。"
+Content = "墨黛雲霧裡，靜映琉璃天。"
 
 [[menu.main]]
 name = "歸檔"
