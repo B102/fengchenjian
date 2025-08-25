@@ -22,10 +22,11 @@ jobs:
           path: built-site
 
       - name: Setup Hugo (latest extended)
-        uses: gohugoio/setup-hugo@v1
+        uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: latest
+          hugo-version: 'latest'
           extended: true
+
 
       - name: Build
         run: hugo --minify
