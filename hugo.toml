@@ -18,3 +18,7 @@ weight = 10
 name = "名字"
 url = "about"
 weight = 20
+
+[params]
+  # hide all text in the footer
+  hideFooter = true
